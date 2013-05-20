@@ -33,6 +33,18 @@ Task List
 
 -   Configurable salt for MD5 hashes
 
+-   Port app to use new python-openid-teams (possibly via pyramid_fas_openid)
+
+    - https://github.com/fedora-infra/pyramid_fas_openid
+
+    - https://github.com/fedora-infra/bodhi/blob/pyramid/development.ini#L38
+
+    - https://github.com/fedora-infra/bodhi/blob/pyramid/bodhi/__init__.py#L90
+
+    - https://github.com/fedora-infra/bodhi/blob/pyramid/bodhi/views.py#L140
+
+    - https://github.com/fedora-infra/tahrir/issues/46
+
 -   Create intro email with badges survey [oddshocks]
 
 -   Local datanommer with postgres dump [oddshocks]
@@ -64,3 +76,6 @@ internship.
     -   System-tap talks with systemd
 
     -   ABRT does anonymous submissions for user activity
+
+    -   School server could award badges based on data synced in from
+        users journals (that is done automatically)
