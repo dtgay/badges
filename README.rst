@@ -1,5 +1,5 @@
 badges
 ======
 
-Collected files &amp; documentation related to Summer 2013 Red Hat internship
+Collected files & documentation related to Summer 2013 Red Hat internship
 with Fedora.
