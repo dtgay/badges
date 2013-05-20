@@ -1,0 +1,66 @@
+Google Hangout #1
+=================
+
+Date: 2013 May 20
+
+Thanks to Remy DeCausemaker for providing me with his notes
+which I used to create these notes. :)
+
+Current Structure of Project
+----------------------------
+
+Wiki page: https://fedoraproject.org/wiki/Open_Badges
+
+Backend
+    plugins, award badges based on fedmsgs
+
+Frontend
+    Tahrir web app, UI needs to be improved for users, should
+    look into Fedora style guidelines
+
+We should develop a web interface along with the backend to help
+guide development. It will also be a good way to show progress
+by displaying data we've gathered. Let's get to where we can easily
+award a badge, and then add metrics and analytics.
+
+Task List
+---------
+
+-   YAML/trigger stuff related to auto-awarding of badges
+
+-   Make sure to be aware of the same badge awarded to one user at
+    multiple emails (for metrics)
+
+-   Configurable salt for MD5 hashes
+
+-   Create intro email with badges survey [oddshocks]
+
+-   Local datanommer with postgres dump [oddshocks]
+
+-   Webapp UI [oddshocks]
+
+-   Award badges via QR code [threebean]
+
+-   Review Fedora style guide and create badges style guide [JennX]
+
+-   Different borders/colors/styles for different types of badges
+    (design, code, community, event, etc) [JennX]
+
+-   Meta-achievements and unawardable badge for getting all badges
+    ("Apotheosis")
+
+Sugar
+#####
+
+These are Sugar-related tasks not directly connected to my Red Hat
+internship.
+
+-   Tahrir on XO/SchoolServer
+
+-   Accept outside badges?
+
+-   Hook into machine activity in a non-creepy way
+
+    -   System-tap talks with systemd
+
+    -   ABRT does anonymous submissions for user activity
