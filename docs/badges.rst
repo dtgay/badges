@@ -79,17 +79,17 @@ SCM
 
 Proven Packager
     Become a member of the provenpackager group,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/proven-packager.yml>`_,
     `art`.
 
 Proven Tester
     Become a member of the proventester group,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/proven-tester.yml>`_,
     `art`.
 
 Sponsor
     Become a member of the Packager sponsor group,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/sponsor.yml>`_,
     `art`.
 
 Skilled packager (Packager II)
