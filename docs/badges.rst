@@ -777,6 +777,8 @@ RiseAboveTheCrowd Badge
     - Staff
 
 Linux Installfest
+    - Participant
+    - Volunteer
 
 Barcamp Rochester
     - Participant
@@ -788,10 +790,13 @@ BarcampROC Spring Hackathon
     - Volunteer
 
 Java User Group Meeting (RJUG) Membership YYYY Badge
+    - Participant
 
 StackOverflow Meetup YYYY Badge
+    - Participant
 
 SURF YYYY Badge
+    - Participant
 
 WeLiveNYSummit 2011 - Transparency, Technology, and Gov2.0
     - Speaker
@@ -805,16 +810,20 @@ PYCon: PyCON YYYY Badge
 
 
 FOSS@RIT Winter Wrap-up Hackathon
+    - Participant
 
 InterlockROC Lightning Talks (InterlockROC Membership Badge YYYY)
+    - Participant
 
 FOSS@RIT Winter Hackfest
+    - Participant
 
 2010
 ----
 Social Media and Communications Symposium @ RIT
     - Participant
     - Speaker
+
 ARM Developer Day (12/2)
     - Participant
     - Speaker
@@ -831,6 +840,7 @@ OLPCSF Community Summit 2010
     - Panellist
 
 FossBox Movie Night (sure)
+    - Attendee
 
 Righteous Pictures Screening and Workshop (YES)
     - Participant
@@ -857,16 +867,27 @@ NTID Technology Symposium OVC Demo
     - Speaker
 
 FOSSCon YYYY Badge
+    - Volunteer
+    - Attendee
+    - Sponsor
 
 POSSE @ RIT
     - Participant
     - Professor Professor
 
 Imagine 2010
+    - Attendee
+    - Exhibitor
+
 Walter Bender
     - Attendee
 
-BarcamROC
+BarcampROC
+    - Participant
+    - Presentor
+    - Lightning Talk Presentor
+
+
 Barcamp Boston
     - Presentor
     - Participant
