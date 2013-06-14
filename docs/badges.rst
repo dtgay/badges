@@ -77,33 +77,38 @@ SCM
     `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/scm.yml>`_,
     `art`.
 
-Proven (Packager I)
-    Become a member of the Provenpackager group,
+Proven Packager
+    Become a member of the provenpackager group,
     `yaml`,
     `art`.
 
-Sponsor (Sponsor I)
+Proven Tester
+    Become a member of the proventester group,
+    `yaml`,
+    `art`.
+
+Sponsor
     Become a member of the Packager sponsor group,
     `yaml`,
     `art`.
 
 Skilled packager (Packager II)
-    Approve 20 packages,
+    Have 20 of your package review requests approved,
     `yaml`,
     `art`.
 
 Skilled reviewer (Reviewer II)
-    Complete 20 reviews,
+    Complete 20 package reviews,
     `yaml`,
     `art`.
 
 Package guru (Packager III)
-    Approve 50 packages,
+    Have 50 of your package review requests approved,
     `yaml`,
     `art`.
 
 Review guru (Reviewer III)
-    Complete 50 reviews,
+    Complete 50 package reviews,
     `yaml`,
     `art`.
 
