@@ -230,3 +230,135 @@ $EVENT $DATE
 
 Fedora <3 Python $YEAR
     Awarded by people running the Fedora booth at PyCon $YEAR
+
+FOSSBox Badges
+==============
+
+2013
+    NASA SpaceAppsChallenge
+        April 20 21 2013
+    Walter Bender Book Signing
+        April 17 2013
+    HFOSS Course Begins!
+    American Greetings Hackathon
+    Jan 18 19 2013
+
+Courses
+-------
+
+HFOSS Honors Seminar (2009 Spring)
+    Student
+    Mentor
+    Teacher
+
+HFOSS Honors Seminar (2010 Winter)
+    Student
+    Mentor
+    Teacher
+
+HFOSS Honors Seminar (2011 Fall)
+    Student
+    Mentor
+    Teacher
+
+IGM Seminar (2012 Winter)
+    Student
+    Mentor
+    Teacher
+
+HFOSS Course (2012 Spring)
+    Student
+    Mentor
+    Teacher
+
+HFOSS Course (2013 Spring)
+    Student
+    Mentor
+    Teacher
+
+Events
+------
+
+Each of the badges listed below revolves around an event or activity hosted or
+attended by FOSSBoxers.
+
+
+2012
+    National Day of Civic Hacking 2013
+    RHoK Global December 2012: Rochester, NY, USA (RHoK The ROC YYYY Badge)
+    Startup Weekend Syracuse 2012 (YES)
+    RIT Election Night Hackathon 2012
+    Pre-BarcampROC Fall 2012 Hackathon
+    BarcampROC Fall 2012
+    100 Year Anniversary of RIT Co-op Program
+    Software Freedom Day 2012
+    Student Sandbox Demo Day 2012
+    FOSSBox Summer Adventure: Boston & Red Hat HQ
+    SURF 2012 Playtestathon
+    Open Hackathon @ SU Student Sandbox
+    Nethack Binge 2012 (DEF)
+    Startup Weekend Rochester
+    #140Cuse Conference
+    BarcampROC Spring 2012
+    Python Amazon Web Services Hackathon
+    PyCon2012
+    National STEM Video Game Challenge Hackathon 2012
+    Hacks/HackersROC Kick-off Meeting
+    American Greetings Hackathon
+    FUDCon Blacksburg
+
+2011
+    National STEM Video Game Challenge Hackathon 2011
+    RIT Game Camp (???)
+    RIT Election Night Hackathon
+    BarcampROC Fall 2011
+    CSH Charity Fundraiser for OLPC - Super Smash Bros. 64 Tournament
+    Capitol Camp 2011
+    TedXBuffalo
+    Professors' Open Source Summer Experience (YES!)
+    FOSS@RIT & SU Student Sandbox Hackathon
+    FOSS@RIT POSSE Hackathon
+    POSSE: Professors' Open Source Summer Experienc
+    StartupROC Meeting
+    FOSS@RIT Summer Undergraduate Research Fellowship Kick-Off
+    FOSS@RIT Breakfast Send-off
+    ImagineRIT
+    Knight/Kauffman Foundation Walkthrough (Change to RiseAboveTheCrowd Badge)
+    ImagineRIT Set-up (ImagineRITYYYY Badge)
+    Linux Installfest
+    Barcamp Rochester (BarcampROCSEASONYYYY Badge
+    BarcampROC Spring Hackathon
+    Java User Group Meeting (RJUG) (RJUG Membership YYYY Badge)
+    RIT Connectology Leadership Conference (Maybe)
+    StackOverflow Meetup (StackOverflow Membership YYYY Badge)
+    GCCIS Undergrad Research Fellowhip Application/Doc Sprint (SURF YYYY Badge)
+    WeLiveNYSummit 2011 - Transparency, Technology, and Gov2.0
+    EdTechDay
+    PYCon: Connecting the Python Community (PyCON YYYY Badge, PyCON Poster Presenter YYYY Badge, PyCON Sprint YYYY Badge)
+    FOSS@RIT Spring Opportunities Meeting
+    FOSS@RIT Winter Wrap-up Hackathon
+    InterlockROC Lightning Talks (InterlockROC Membership Badge YYYY)
+    FOSS@RIT Winter Hackfest
+
+2010
+    Social Media and Communications Symposium @ RIT
+    ARM Developer Day (12/2)
+    Home Stretch Hackathon
+    General Elections Result Viewing (Election Night YYYY Badge)
+    Barcamp Rochester
+    OLPCSF Community Summit 2010
+    FossBox Movie Night (sure)
+    Righteous Pictures Screening and Workshop (YES)
+    Chilling in the FossBox
+    Software Freedom Day '10 - Rochester
+    Capitolcamp '10
+    FOSS@RIT - Homestretch Hackathon
+    FOSS@RIT Boston HackFest
+    NTID Technology Symposium OVC Demo
+    FossCon is coming to RIT June 19th 2010! (FOSSCon YYYY Badge)
+    POSSE @ RIT
+    Imagine 2010
+    Walter Bender
+    BarcamROC
+    Barcamp Boston
+    Richard Stallman (RMS@RIT Badge YYYY)
