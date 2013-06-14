@@ -46,8 +46,11 @@ First
 Reviewer
     Complete 1 package review submitted by another individual
 
-Push'd
-    Push 1 Bodhi update
+Is this thing on?
+    Push 1 Bodhi update to testing
+
+Like a rock
+    Push 1 Bodhi update to stable
 
 If you build it...
     Complete 1 successful Koji build
