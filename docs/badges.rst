@@ -210,22 +210,22 @@ Stylesheet Master
 
 Junior Editor (Editor I)
     Edited at least 10 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/junior-editor.yml>`_,
     `art`.
 
 Associate Editor (Editor II)
     Edited at least 20 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/associate-editor.yml>`_,
     `art`.
 
 Senior Editor (Editor III)
     Edited at least 50 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/senior-editor.yml>`_,
     `art`.
 
 Master Editor (Editor IV)
     Edited at least 100 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/master-editor.yml>`_,
     `art`.
 
 Tester I
