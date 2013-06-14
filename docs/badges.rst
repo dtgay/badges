@@ -48,6 +48,9 @@ Push'd
 If you build it...
     Complete 1 successful Koji build
 
+What goes up...
+    Submitted a koji build that failed to build.
+
 SCM
     Push to the Fedora Package Repository
 
