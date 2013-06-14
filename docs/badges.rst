@@ -114,7 +114,7 @@ Review guru (Reviewer III)
 
 Secretary General
     Be noted as an IRC meeting chair by zodbot,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/secretary-general.yml>`_,
     `art`.
 
 Generalissimo
