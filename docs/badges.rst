@@ -6,6 +6,10 @@ for the current iteration of the Fedora Badges project.
 Please submit new badge ideas in the form of a pull request
 or an email to oddshocks at riseup dot net.
 
+The badges *as they are actually deployed in Fedora Infrastructure* can be
+found `here <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/>`_
+in our ansible repo.
+
 A note on numbers
 -----------------
 
