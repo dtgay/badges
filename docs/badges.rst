@@ -7,7 +7,7 @@ Please submit new badge ideas in the form of a pull request
 or an email to oddshocks at riseup dot net.
 
 The badges *as they are actually deployed in Fedora Infrastructure* can be
-found `here <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/>`_
+found `here <http://infrastructure.fedoraproject.org/infra/badges/rules/>`_
 in our ansible repo.
 
 A note on numbers
@@ -39,7 +39,7 @@ events on the fedmsg bus.
 
 Involvement
     Create a FAS account,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/involvement.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/involvement.yml>`_,
     `art`.
 
 First
@@ -54,42 +54,42 @@ Reviewer
 
 Is this thing on?
     Push 1 Bodhi update to testing,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/is-this-thing-on.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on.yml>`_,
     `art`.
 
 Like a rock
     Push 1 Bodhi update to stable,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/like-a-rock.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock.yml>`_,
     `art`.
 
 If you build it...
     Complete 1 successful Koji build,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/if-you-build-it.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/if-you-build-it.yml>`_,
     `art`.
 
 What goes up...
     Submitted a koji build that failed to build,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/what-goes-up.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/what-goes-up.yml>`_,
     `art`.
 
 SCM
     Push to the Fedora Package Repository
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/scm.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/scm.yml>`_,
     `art`.
 
 Proven Packager
     Become a member of the provenpackager group,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/proven-packager.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/proven-packager.yml>`_,
     `art`.
 
 Proven Tester
     Become a member of the proventester group,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/proven-tester.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/proven-tester.yml>`_,
     `art`.
 
 Sponsor
     Become a member of the Packager sponsor group,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/sponsor.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/sponsor.yml>`_,
     `art`.
 
 Skilled packager (Packager II)
@@ -112,9 +112,14 @@ Review guru (Reviewer III)
     `yaml`,
     `art`.
 
+Speak Up!
+    Participate in an IRC meeting.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/speak-up.yml>`_,
+    `art`.
+
 Secretary General
     Be noted as an IRC meeting chair by zodbot,
-    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/secretary-general.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/secretary-general.yml>`_,
     `art`.
 
 Generalissimo
@@ -210,22 +215,22 @@ Stylesheet Master
 
 Junior Editor (Editor I)
     Edited at least 10 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/junior-editor.yml>`_,
     `art`.
 
 Associate Editor (Editor II)
     Edited at least 20 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/associate-editor.yml>`_,
     `art`.
 
 Senior Editor (Editor III)
     Edited at least 50 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/senior-editor.yml>`_,
     `art`.
 
 Master Editor (Editor IV)
     Edited at least 100 wiki pages,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/master-editor.yml>`_,
     `art`.
 
 Tester I
