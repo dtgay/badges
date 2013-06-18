@@ -112,6 +112,11 @@ Review guru (Reviewer III)
     `yaml`,
     `art`.
 
+Speak Up!
+    Participate in an IRC meeting.
+    `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/speak-up.yml>`_,
+    `art`.
+
 Secretary General
     Be noted as an IRC meeting chair by zodbot,
     `yaml <http://infrastructure.fedoraproject.org/infra/ansible/roles/badges-backend/files/badges/secretary-general.yml>`_,
