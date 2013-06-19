@@ -233,27 +233,27 @@ Master Editor (Editor IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/master-editor.yml>`_,
     `art`.
 
-Tester I
+Junior Tester (Tester I)
     Tested and added karma to 10 updates-testing updates in Bodhi,
     `yaml`,
     `art`.
 
-Tester II
+Tester (Tester II)
     Tested and added karma to 50 updates-testing updates in Bodhi,
     `yaml`,
     `art`.
 
-Tester III
+Senior Tester (Tester III)
     Tested and added karma to 150 updates-testing updates in Bodhi,
     `yaml`,
     `art`.
 
-Master Tester (Tester IV)
+Arhat (Tester IV)
     Tested and added karma to 300 updates-testing updates in Bodhi,
     `yaml`,
     `art`.
 
-MegaTester (Tester V)
+Bodhisattva (Tester V)
     Tested and added karma to 1000 updates-testing updates in Bodhi,
     `yaml`,
     `art`.
@@ -283,22 +283,22 @@ Master Fixer (Fixer IV)
     `yaml`,
     `art`.
 
-Junior Comitter (Committer I)
+Junior Committer (Committer I)
     20 commits to pkgs git repo,
     `yaml`,
     `art`.
 
-Commiter
+Commiter (Committer II)
     50 commits to pkgs git repo,
     `yaml`,
     `art`.
 
-Senior Commiter
+Senior Commiter (Committer III)
     150 commits to pkgs git repo,
     `yaml`,
     `art`.
 
-Master Commiter
+Master Commiter (Committer IV)
     300 commits to pkgs git repo,
     `yaml`,
     `art`.
