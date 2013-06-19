@@ -368,6 +368,31 @@ Master Updater (Updater IV)
     `yaml`,
     `art`.
 
+Junior Tagger (Tagger I)
+    Voted on 10 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-01.yml>`_,
+    `art`.
+
+Tagger (Tagger II)
+    Voted on 50 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-02.yml>`_,
+    `art`.
+
+Senior Tagger (Tagger III)
+    Voted on 250 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-03.yml>`_,
+    `art`.
+
+Master Tagger (Tagger IV)
+    Voted on 1000 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-04.yml>`_,
+    `art`.
+
+Macklemore (Tagger V)
+    Voted on 2000 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-05.yml>`_,
+    `art`.
+
 Questionable
 ************
 
