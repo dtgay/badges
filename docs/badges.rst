@@ -190,7 +190,7 @@ Fedora Host
 
 Social Butterfly
     Joined more than 10 #fedora-* IRC meetings,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/social-butterfly.yml>`_,
     `art`.
 
 In Demand
@@ -303,10 +303,12 @@ Return to Society (Tester X)
     `art`,
     `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
+
 Testing is the Future
     Participated in a test day,
     `yaml`,
     `art`.
+
 
 Junior Fixer (Fixer I)
     Closed 10 bugs,
@@ -328,45 +330,48 @@ Master Fixer (Fixer IV)
     `yaml`,
     `art`.
 
+
 Junior Committer (Committer I)
     20 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-01.yml>`_,
     `art`.
 
 Commiter (Committer II)
     50 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-02.yml>`_,
     `art`.
 
 Senior Commiter (Committer III)
     150 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-03.yml>`_,
     `art`.
 
 Master Commiter (Committer IV)
     300 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-04.yml>`_,
     `art`.
+
 
 Junior Updater (Updater I)
     Created 10 package updates in Bodhi,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-01.yml>`_,
     `art`.
 
 Updater (Updater II)
     Created 50 package updates in Bodhi,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-02.yml>`_,
     `art`.
 
 Senior Updater (Updater III)
     Created 150 package updates in Bodhi,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-03.yml>`_,
     `art`.
 
 Master Updater (Updater IV)
     Created 300 package updates in Bodhi,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-04.yml>`_,
     `art`.
+
 
 Junior Tagger (Tagger I)
     Voted on 10 tags for packages in Fedora Tagger,
@@ -392,6 +397,7 @@ Macklemore (Tagger V)
     Voted on 2000 tags for packages in Fedora Tagger,
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-05.yml>`_,
     `art`.
+
 
 Questionable
 ************
