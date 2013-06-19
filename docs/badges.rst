@@ -233,30 +233,75 @@ Master Editor (Editor IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/master-editor.yml>`_,
     `art`.
 
-Junior Tester (Tester I)
+In Search of the Bull (Tester I)
+    (aimless searching, only the sound of cicadas).
+    Tested and added karma to 1 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-01.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Discovery of the Footprints (Tester II)
+    (a path to follow)
+    Tested and added karma to 5 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-02.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Perceiving the Bull (Tester III)
+    (but only its rear, not its head)
     Tested and added karma to 10 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-03.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Tester (Tester II)
-    Tested and added karma to 50 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Catching the Bull (Tester IV)
+    (a great struggle, the bull repeatedly escapes, discipline required)
+    Tested and added karma to 20 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-04.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Senior Tester (Tester III)
-    Tested and added karma to 150 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Taming the Bull (Tester V)
+    (less straying, less discipline, bull becomes gentle and obedient)
+    Tested and added karma to 40 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-05.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Arhat (Tester IV)
-    Tested and added karma to 300 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Riding the Bull Home (Tester VI)
+    (great joy)
+    Tested and added karma to 80 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-06.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Bodhisattva (Tester V)
+The Bull Transcended (Tester VII)
+    (once home, the bull is forgotten, discipline's whip is idle; stillness)
+    Tested and added karma to 125 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-07.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Both Bull and Self Transcended (Tester VIII)
+    (all forgotten and empty)
+    Tested and added karma to 250 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-08.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Reaching the Source (Tester IX)
+    (unconcerned with or without; the sound of cicadas)
+    Tested and added karma to 500 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-09.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Return to Society (Tester X)
+    (crowded marketplace; spreading enlightenment by mingling with humankind)
     Tested and added karma to 1000 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-10.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
 Testing is the Future
     Participated in a test day,
