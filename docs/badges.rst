@@ -52,16 +52,6 @@ Reviewer
     `yaml`,
     `art`.
 
-Is this thing on?
-    Push 1 Bodhi update to testing,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on.yml>`_,
-    `art`.
-
-Like a rock
-    Push 1 Bodhi update to stable,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock.yml>`_,
-    `art`.
-
 If you build it...
     Complete 1 successful Koji build,
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/if-you-build-it.yml>`_,
@@ -351,27 +341,55 @@ Master Commiter (Committer IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-04.yml>`_,
     `art`.
 
-
-Junior Updater (Updater I)
-    Created 10 package updates in Bodhi,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-01.yml>`_,
+Is this thing on? (Updates-Testing I)
+    Push 1 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-01.yml>`_,
     `art`.
 
-Updater (Updater II)
-    Created 50 package updates in Bodhi,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-02.yml>`_,
+Is this thing on? (Updates-Testing II)
+    Push 20 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-02.yml>`_,
     `art`.
 
-Senior Updater (Updater III)
-    Created 150 package updates in Bodhi,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-03.yml>`_,
+Is this thing on? (Updates-Testing III)
+    Push 100 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-03.yml>`_,
     `art`.
 
-Master Updater (Updater IV)
-    Created 300 package updates in Bodhi,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/updater-04.yml>`_,
+Is this thing on? (Updates-Testing IV)
+    Push 500 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-04.yml>`_,
     `art`.
 
+Mic Check! (Updates-Testing V)
+    Push 1000 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-05.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable I)
+    Push 1 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-01.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable II)
+    Push 20 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-02.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable III)
+    Push 100 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-03.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable IV)
+    Push 500 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-04.yml>`_,
+    `art`.
+
+Tectonic! (Updates-Stable V)
+    Push 1000 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-05.yml>`_,
+    `art`.
 
 Junior Tagger (Tagger I)
     Voted on 10 tags for packages in Fedora Tagger,
