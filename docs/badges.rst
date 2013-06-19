@@ -359,7 +359,7 @@ Updater (Updater II)
     `art`.
 
 Senior Updater (Updater III)
-    Created 150 package updates in Bodhir,
+    Created 150 package updates in Bodhi,
     `yaml`,
     `art`.
 
