@@ -62,9 +62,29 @@ What goes up...
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/what-goes-up.yml>`_,
     `art`.
 
-SCM
-    Push to the Fedora Package Repository
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/scm.yml>`_,
+You can call me "Patches" (SCM I)
+    Push 5 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-01.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM II)
+    Push 30 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-02.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM III)
+    Push 90 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-03.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM IV)
+    Push 400 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-04.yml>`_,
+    `art`.
+
+Patches (SCM V)
+    Push 1000 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-05.yml>`_,
     `art`.
 
 Proven Packager
