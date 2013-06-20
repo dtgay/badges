@@ -173,9 +173,29 @@ Polyglot
     `yaml`,
     `art`.
 
-SuperGuru
-    Answer 20 questions on Ask Fedora that have been confirmed,
-    `yaml`,
+Curious Penguin (Ask Fedora I)
+    Ask or answer 1 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-01.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora II)
+    Ask or answer 10 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-02.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora III)
+    Ask or answer 40 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-03.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora IV)
+    Ask or answer 100 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-04.yml>`_,
+    `art`.
+
+You can call me "Wikipedia Brown"(Ask Fedora V)
+    Ask or answer 500 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-05.yml>`_,
     `art`.
 
 First Steps
