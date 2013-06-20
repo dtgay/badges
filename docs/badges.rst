@@ -200,7 +200,7 @@ Fedora Host
 
 Social Butterfly
     Joined more than 10 #fedora-* IRC meetings,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-social-butterfly.yml>`_,
+    `yaml`,
     `art`.
 
 In Demand
