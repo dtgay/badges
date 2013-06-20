@@ -124,12 +124,12 @@ Review guru (Reviewer III)
 
 Speak Up!
     Participate in an IRC meeting.
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/speak-up.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-speak-up.yml>`_,
     `art`.
 
 Secretary General
     Be noted as an IRC meeting chair by zodbot,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/secretary-general.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-secretary-general.yml>`_,
     `art`.
 
 Generalissimo
@@ -200,7 +200,7 @@ Fedora Host
 
 Social Butterfly
     Joined more than 10 #fedora-* IRC meetings,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/social-butterfly.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-social-butterfly.yml>`_,
     `art`.
 
 In Demand
