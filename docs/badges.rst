@@ -193,7 +193,7 @@ Curious Penguin (Ask Fedora IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-04.yml>`_,
     `art`.
 
-You can call me "Wikipedia Brown"(Ask Fedora V)
+You can call me "Wikipedia Brown" (Ask Fedora V)
     Ask or answer 500 questions on Ask Fedora,
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-05.yml>`_,
     `art`.
