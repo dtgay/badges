@@ -52,16 +52,6 @@ Reviewer
     `yaml`,
     `art`.
 
-Is this thing on?
-    Push 1 Bodhi update to testing,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on.yml>`_,
-    `art`.
-
-Like a rock
-    Push 1 Bodhi update to stable,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock.yml>`_,
-    `art`.
-
 If you build it...
     Complete 1 successful Koji build,
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/if-you-build-it.yml>`_,
@@ -72,9 +62,29 @@ What goes up...
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/what-goes-up.yml>`_,
     `art`.
 
-SCM
-    Push to the Fedora Package Repository
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/scm.yml>`_,
+You can call me "Patches" (SCM I)
+    Push 5 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-01.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM II)
+    Push 30 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-02.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM III)
+    Push 90 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-03.yml>`_,
+    `art`.
+
+You can call me "Patches" (SCM IV)
+    Push 400 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-04.yml>`_,
+    `art`.
+
+Patches (SCM V)
+    Push 1000 commits to the Fedora Package repositories
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/you-can-call-me-patches-05.yml>`_,
     `art`.
 
 Proven Packager
@@ -114,12 +124,12 @@ Review guru (Reviewer III)
 
 Speak Up!
     Participate in an IRC meeting.
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/speak-up.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-speak-up.yml>`_,
     `art`.
 
 Secretary General
     Be noted as an IRC meeting chair by zodbot,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/secretary-general.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/irc-secretary-general.yml>`_,
     `art`.
 
 Generalissimo
@@ -163,9 +173,29 @@ Polyglot
     `yaml`,
     `art`.
 
-SuperGuru
-    Answer 20 questions on Ask Fedora that have been confirmed,
-    `yaml`,
+Curious Penguin (Ask Fedora I)
+    Ask or answer 1 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-01.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora II)
+    Ask or answer 10 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-02.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora III)
+    Ask or answer 40 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-03.yml>`_,
+    `art`.
+
+Curious Penguin (Ask Fedora IV)
+    Ask or answer 100 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-04.yml>`_,
+    `art`.
+
+You can call me "Wikipedia Brown"(Ask Fedora V)
+    Ask or answer 500 questions on Ask Fedora,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-05.yml>`_,
     `art`.
 
 First Steps
@@ -233,35 +263,82 @@ Master Editor (Editor IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/master-editor.yml>`_,
     `art`.
 
-Tester I
+In Search of the Bull (Tester I)
+    (aimless searching, only the sound of cicadas).
+    Tested and added karma to 1 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-01.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Discovery of the Footprints (Tester II)
+    (a path to follow)
+    Tested and added karma to 5 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-02.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Perceiving the Bull (Tester III)
+    (but only its rear, not its head)
     Tested and added karma to 10 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-03.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Tester II
-    Tested and added karma to 50 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Catching the Bull (Tester IV)
+    (a great struggle, the bull repeatedly escapes, discipline required)
+    Tested and added karma to 20 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-04.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Tester III
-    Tested and added karma to 150 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Taming the Bull (Tester V)
+    (less straying, less discipline, bull becomes gentle and obedient)
+    Tested and added karma to 40 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-05.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-Master Tester (Tester IV)
-    Tested and added karma to 300 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+Riding the Bull Home (Tester VI)
+    (great joy)
+    Tested and added karma to 80 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-06.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
 
-MegaTester (Tester V)
+The Bull Transcended (Tester VII)
+    (once home, the bull is forgotten, discipline's whip is idle; stillness)
+    Tested and added karma to 125 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-07.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Both Bull and Self Transcended (Tester VIII)
+    (all forgotten and empty)
+    Tested and added karma to 250 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-08.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Reaching the Source (Tester IX)
+    (unconcerned with or without; the sound of cicadas)
+    Tested and added karma to 500 updates-testing updates in Bodhi,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-09.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
+Return to Society (Tester X)
+    (crowded marketplace; spreading enlightenment by mingling with humankind)
     Tested and added karma to 1000 updates-testing updates in Bodhi,
-    `yaml`,
-    `art`.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tester-10.yml>`_,
+    `art`,
+    `inspiration <https://en.wikipedia.org/wiki/Ten_Bulls>`_.
+
 
 Testing is the Future
     Participated in a test day,
     `yaml`,
     `art`.
+
 
 Junior Fixer (Fixer I)
     Closed 10 bugs,
@@ -283,45 +360,102 @@ Master Fixer (Fixer IV)
     `yaml`,
     `art`.
 
-Junior Comitter (Committer I)
+
+Junior Committer (Committer I)
     20 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-01.yml>`_,
     `art`.
 
-Commiter
+Commiter (Committer II)
     50 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-02.yml>`_,
     `art`.
 
-Senior Commiter
+Senior Commiter (Committer III)
     150 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-03.yml>`_,
     `art`.
 
-Master Commiter
+Master Commiter (Committer IV)
     300 commits to pkgs git repo,
-    `yaml`,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/committer-04.yml>`_,
     `art`.
 
-Junior Updater (Updater I)
-    Created 10 package updates in Bodhi,
-    `yaml`,
+Is this thing on? (Updates-Testing I)
+    Push 1 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-01.yml>`_,
     `art`.
 
-Updater (Updater II)
-    Created 50 package updates in Bodhi,
-    `yaml`,
+Is this thing on? (Updates-Testing II)
+    Push 20 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-02.yml>`_,
     `art`.
 
-Senior Updater (Updater III)
-    Created 150 package updates in Bodhir,
-    `yaml`,
+Is this thing on? (Updates-Testing III)
+    Push 100 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-03.yml>`_,
     `art`.
 
-Master Updater (Updater IV)
-    Created 300 package updates in Bodhi,
-    `yaml`,
+Is this thing on? (Updates-Testing IV)
+    Push 500 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-04.yml>`_,
     `art`.
+
+Mic Check! (Updates-Testing V)
+    Push 1000 Bodhi updates to testing,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/is-this-thing-on-05.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable I)
+    Push 1 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-01.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable II)
+    Push 20 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-02.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable III)
+    Push 100 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-03.yml>`_,
+    `art`.
+
+Like a Rock (Updates-Stable IV)
+    Push 500 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-04.yml>`_,
+    `art`.
+
+Tectonic! (Updates-Stable V)
+    Push 1000 Bodhi updates to stable,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/like-a-rock-05.yml>`_,
+    `art`.
+
+Junior Tagger (Tagger I)
+    Voted on 10 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-01.yml>`_,
+    `art`.
+
+Tagger (Tagger II)
+    Voted on 50 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-02.yml>`_,
+    `art`.
+
+Senior Tagger (Tagger III)
+    Voted on 250 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-03.yml>`_,
+    `art`.
+
+Master Tagger (Tagger IV)
+    Voted on 1000 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-04.yml>`_,
+    `art`.
+
+Macklemore (Tagger V)
+    Voted on 2000 tags for packages in Fedora Tagger,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/tagger-05.yml>`_,
+    `art`.
+
 
 Questionable
 ************
