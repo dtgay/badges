@@ -52,14 +52,54 @@ Reviewer
     `yaml`,
     `art`.
 
-If you build it...
+If you build it... (Koji Success I)
     Complete 1 successful Koji build,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/if-you-build-it.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-if-you-build-it-01.yml>`_,
     `art`.
 
-What goes up...
+If you build it... (Koji Success II)
+    Complete 10 successful Koji builds,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-if-you-build-it-02.yml>`_,
+    `art`.
+
+If you build it... (Koji Success III)
+    Complete 50 successful Koji builds,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-if-you-build-it-03.yml>`_,
+    `art`.
+
+If you build it... (Koji Success IV)
+    Complete 250 successful Koji builds,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-if-you-build-it-04.yml>`_,
+    `art`.
+
+All your $arch are belong to us (Koji Success IV)
+    Complete 1000 successful Koji builds,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-if-you-build-it-05.yml>`_,
+    `art`.
+
+What goes up... (Koji Failure I)
     Submitted a koji build that failed to build,
-    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/what-goes-up.yml>`_,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-what-goes-up-01.yml>`_,
+    `art`.
+
+What goes up... (Koji Failure II)
+    Submitted 5 or more koji builds that failed to build,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-what-goes-up-02.yml>`_,
+    `art`.
+
+What goes up... (Koji Failure III)
+    Submitted 20 or more koji builds that failed to build,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-what-goes-up-03.yml>`_,
+    `art`.
+
+What goes up... (Koji Failure IV)
+    Submitted 100 or more koji builds that failed to build,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-what-goes-up-04.yml>`_,
+    `art`.
+
+Hindenburg (Koji Failure V)
+    Submitted 250 or more koji builds that failed to build,
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/koji-what-goes-up-05.yml>`_,
     `art`.
 
 You can call me "Patches" (SCM I)
@@ -193,7 +233,7 @@ Curious Penguin (Ask Fedora IV)
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-04.yml>`_,
     `art`.
 
-You can call me "Wikipedia Brown"(Ask Fedora V)
+You can call me "Wikipedia Brown" (Ask Fedora V)
     Ask or answer 500 questions on Ask Fedora,
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/askbot-curious-penguin-05.yml>`_,
     `art`.
