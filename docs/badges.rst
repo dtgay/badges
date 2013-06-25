@@ -42,6 +42,11 @@ Involvement
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/involvement.yml>`_,
     `art`.
 
+Crypto Panda
+    Updated your GPG key with FAS
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/fas-crypto-panda.yml>`_,
+    `art`.
+
 First
     Submit 1 package review,
     `yaml`,
