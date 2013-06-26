@@ -52,6 +52,31 @@ Bona Fide
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/fas-bona-fide.yml>`_,
     `art`.
 
+Bloggin' It! (Planet I)
+    You posted something to the Fedora Planet!
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/planet-bloggin-it-01.yml>`_,
+    `art`.
+
+Bloggin' It! (Planet II)
+    You posted 5 blog posts to the Fedora Planet!
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/planet-bloggin-it-02.yml>`_,
+    `art`.
+
+Bloggin' It! (Planet III)
+    You posted 10 blog posts to the Fedora Planet!
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/planet-bloggin-it-03.yml>`_,
+    `art`.
+
+Bloggin' It! (Planet IV)
+    You posted 20 blog posts to the Fedora Planet!
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/planet-bloggin-it-04.yml>`_,
+    `art`.
+
+Bob Loblaw (Planet V)
+    You posted 40 blog posts to the Fedora Planet!
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/planet-bloggin-it-05.yml>`_,
+    `art`.
+
 First
     Submit 1 package review,
     `yaml`,
