@@ -47,6 +47,11 @@ Crypto Panda
     `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/fas-crypto-panda.yml>`_,
     `art`.
 
+Bona Fide
+    You got a new koji certificate.
+    `yaml <http://infrastructure.fedoraproject.org/infra/badges/rules/fas-bona-fide.yml>`_,
+    `art`.
+
 First
     Submit 1 package review,
     `yaml`,
