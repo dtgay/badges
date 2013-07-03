@@ -569,3 +569,329 @@ $EVENT $DATE
 
 Fedora <3 Python $YEAR
     Awarded by people running the Fedora booth at PyCon $YEAR
+
+FOSSBox Badges
+==============
+
+Courses
+-------
+HFOSS Honors Seminar (2009 Spring)
+    - Student
+    - Mentor
+    - Teacher
+
+HFOSS Honors Seminar (2010 Winter)
+    - Student
+    - Mentor
+    - Teacher
+
+HFOSS Honors Seminar (2011 Fall)
+    - Student
+    - Mentor
+    - Teacher
+
+IGM Seminar (2012 Winter)
+    - Student
+    - Mentor
+    - Teacher
+
+HFOSS Course (2012 Spring)
+    - Student
+    - Mentor
+    - Teacher
+
+HFOSS Course (2013 Spring)
+    - Student
+    - Mentor
+    - Teacher
+
+Events
+------
+Each of the badges listed below revolves around an event or activity hosted or
+attended by FOSSBoxers.
+
+Recurring
+---------
+    - Imagine RIT
+    - Software Freedom Day
+    - SURF
+    - RHoK
+    - National Day of Civic Hacking
+    - STEM Video Game Challenge
+    - HFOSS
+    - IGM Seminar
+    - CapitolCamp
+    - PyCON
+    - FUDCON/Flock
+    - BarcampROCSEASONYYYY Badge
+
+2013
+----
+NASA SpaceAppsChallenge - April 20 21 2013
+    - Participant
+    - Judge
+    - Category Winner
+    - Overall Winner
+    - Sponsor
+
+Walter Bender Book Signing - April 17 2013
+    - Participant
+    - Volunteer
+
+American Greetings Hackathon - Jan 18 19 2013
+    - Particpant
+    - Category Winner
+    - Judge
+    - Mentor
+    - Volunteer
+
+2012
+----
+National Day of Civic Hacking 2013
+    - Participant
+    - Mentor
+
+RHoK The ROC YYYY Badge
+    - Participant
+    - Mentor
+    - Volunteer
+    - Sponsor
+
+Startup Weekend Syracuse 2012
+    - Particpant
+
+RIT Election Night Hackathon 2012
+    - Participant
+    - Mentor
+    - Volunteer
+
+Pre-BarcampROC Fall 2012 Hackathon
+    - Participant
+    - Volunteer
+
+BarcampROC Fall 2012
+    - Participant
+    - Presenter
+
+Software Freedom Day 2012
+    - Participant
+
+Student Sandbox Demo Day 2012
+    - Volunteer
+
+FOSSBox Summer Adventure: Boston & Red Hat HQ
+    - Participant
+
+SURF 2012 Playtestathon
+    - Playtestor
+    - Playtestee
+
+Twilio Hackathon @ SU Student Sandbox
+    - Participant
+    - Category Winner
+
+Nethack Binge 2012 (DEF)
+    - Participant
+    - Demigod
+
+Startup Weekend Rochester
+    - Participant
+    - Organizer
+    - Volunteer
+    - Category Winner
+
+#140Cuse Conference
+    - Participant
+    - Presentor
+
+BarcampROC Spring 2012
+    - Participant
+    - Presentor
+
+Python Amazon Web Services Hackathon
+    - Participant
+
+PyCon2012
+    - Participant
+    - Poster Presentor
+    - Sprinter
+
+National STEM Video Game Challenge Hackathon 2012
+    - Participant
+
+Hacks/HackersROC Kick-off Meeting
+    - Particpant
+
+FUDCon Blacksburg
+    - Participant
+    - Presentor
+    - Lightning Talk Presentor
+
+2011
+----
+National STEM Video Game Challenge Hackathon 2011
+    - Particpant
+
+RIT Election Night Hackathon
+    - Participant
+    - Volunteer
+
+BarcampROC Fall 2011
+    - Participant
+    - Presentor
+    - Lightning Talk Presentor
+
+CSH Charity Fundraiser for OLPC - Super Smash Bros. 64 Tournament
+    - Organizer
+    - Volunteer
+    - Participant
+
+Capitol Camp 2011
+    - Participant
+    - Presentor
+    - Hackathon Attendee
+    - Volunteer
+
+TedXBuffalo
+    - Speaker
+    - Attendee
+
+Professors' Open Source Summer Experience
+    - Professor Professor
+    - POSSE Graduate
+    - Volunteer
+    - POSSE Hackathon Participant
+
+FOSS@RIT & SU Student Sandbox Hackathon
+    - Participant
+
+FOSS@RIT Summer Undergraduate Research Fellowship Kick-Off
+    - Fellow
+    - Mentor
+
+ImagineRIT
+    - Volunteer
+
+RiseAboveTheCrowd Badge
+    - Mentor
+    - Staff
+
+Linux Installfest
+    - Participant
+    - Volunteer
+
+Barcamp Rochester
+    - Participant
+    - Presentor
+    - Lightning Talk Presentor
+
+BarcampROC Spring Hackathon
+    - Participant
+    - Volunteer
+
+Java User Group Meeting (RJUG) Membership YYYY Badge
+    - Participant
+
+StackOverflow Meetup YYYY Badge
+    - Participant
+
+SURF YYYY Badge
+    - Participant
+
+WeLiveNYSummit 2011 - Transparency, Technology, and Gov2.0
+    - Speaker
+
+EdTechDay
+    - Presentor
+
+PYCon: PyCON YYYY Badge
+    - PyCON Poster Presenter
+    - PyCON Sprintor
+
+
+FOSS@RIT Winter Wrap-up Hackathon
+    - Participant
+
+InterlockROC Lightning Talks (InterlockROC Membership Badge YYYY)
+    - Participant
+
+FOSS@RIT Winter Hackfest
+    - Participant
+
+2010
+----
+Social Media and Communications Symposium @ RIT
+    - Participant
+    - Speaker
+
+ARM Developer Day (12/2)
+    - Participant
+    - Speaker
+    - Sponsor
+
+Home Stretch Hackathon
+    - Participant
+    - Volunteer
+
+General Elections Result Viewing (Election Night YYYY Badge)
+    - Participant
+
+OLPCSF Community Summit 2010
+    - Panellist
+
+FossBox Movie Night (sure)
+    - Attendee
+
+Righteous Pictures Screening and Workshop (YES)
+    - Participant
+    - Speaker
+
+Software Freedom Day '10 - Rochester
+    - Participant
+    - Sponsor
+    - Volunteer
+
+Capitolcamp '10
+    - Volunteer
+    - Speaker
+    - Sprintor
+
+FOSS@RIT - Homestretch Hackathon
+    - Participant
+    - Volunteer
+
+FOSS@RIT Boston HackFest
+    - Participant
+
+NTID Technology Symposium OVC Demo
+    - Speaker
+
+FOSSCon YYYY Badge
+    - Volunteer
+    - Attendee
+    - Sponsor
+
+POSSE @ RIT
+    - Participant
+    - Professor Professor
+
+Imagine 2010
+    - Attendee
+    - Exhibitor
+
+Walter Bender
+    - Attendee
+
+BarcampROC
+    - Participant
+    - Presentor
+    - Lightning Talk Presentor
+
+
+Barcamp Boston
+    - Presentor
+    - Participant
+
+RMS@RIT Badge YYYY
+    - Attendee
+    - Lunch with RMS

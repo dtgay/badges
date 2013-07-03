@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="112.727px" viewBox="0 0 100 112.727" enable-background="new 0 0 100 112.727" xml:space="preserve">
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="91.822,23.666 50.431,10.109 9.301,23.738 9.821,69.346 51.29,105.906 92.333,68.42 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<polygon clip-path="url(#SVGID_2_)" fill="#6EBE45" points="91.822,23.666 50.431,10.109 9.301,23.738 9.821,69.346 51.29,105.906 
+		92.333,68.42 	"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3C6325" d="M55.182,70.895v-3.584
+		c8-2.353,14.508-9.868,16.325-19.364c1.779-0.98,2.959-2.898,2.959-5.137c0-2.173-1.181-4.046-2.88-5.05
+		c-1.912-11.953-11.053-21.012-22.033-21.012c-10.982,0-20.117,9.062-22.03,21.015c-1.694,1.005-2.853,2.877-2.853,5.047
+		c0,2.234,1.566,4.151,3.342,5.132c1.846,9.656,8.17,17.257,17.17,19.476v3.299c-13,1.694-21,11.352-21,23.049v8.168
+		c0,12.891,10.925,23.34,23.815,23.34h2.333c12.891,0,23.852-10.449,23.852-23.34v-8.168C74.182,82.474,66.182,73.058,55.182,70.895
+		z"/>
+	<g id="layer1_3_" inkscape:label="Layer 1" inkscape:groupmode="layer" clip-path="url(#SVGID_2_)">
+		<g id="g7679_3_" transform="translate(31779.603,526.75281)" inkscape:label="Layer copy">
+		</g>
+		<g id="flowRoot6330_3_" transform="matrix(1.6047001,0,0,1.6047001,26196.59,-2010.0655)">
+		</g>
+		<g id="flowRoot3835-4_3_" transform="matrix(1.8224391,0,0,1.8224391,22817.8,-2077.1031)">
+		</g>
+		<g id="flowRoot4897_3_" transform="matrix(1.8943641,0,0,1.8943641,-12094.545,-291.36204)">
+		</g>
+		<path id="path4890_3_" sodipodi:nodetypes="ccccccccccccc" inkscape:connector-curvature="0" fill="#38803D" d="M34.861,44.183
+			V26.743l15.479-4.933l15.517,4.932l-4.471,2.34l-11.046-4.068l-0.943,0.419l10.968,4.171l-4.49,2.332l-11.102-4.854l-5.445,1.997
+			l-0.021,19.021C39.308,48.099,35.981,45.17,34.861,44.183L34.861,44.183z"/>
+		<path id="path4892_3_" sodipodi:nodetypes="cccccccccccccc" inkscape:connector-curvature="0" fill="#38803D" d="M44.681,27.921
+			l-4.299,1.702v19.428l9.959,8.742L50.34,34.819l4.465-2.319L44.681,27.921z M45.789,31.392l1.266,0.628l-1.104,0.511v17.335
+			l-1.271-1.032V31.863L45.789,31.392z"/>
+		<path id="path4895_3_" sodipodi:nodetypes="ccccccccccccccc" inkscape:connector-curvature="0" fill="#6CBD45" d="M65.857,36.308
+			l-5.492,3.926v5.056l-5.561,4.504v-1.39l4.423-3.466v-3.865l-7.773,5.594v10.185l11.075-9.734l-0.021-4.783l1.105-0.873v4.685
+			l2.243-1.95V36.308z"/>
+		<path id="path4897_3_" sodipodi:nodetypes="ccccccccccccccc" inkscape:connector-curvature="0" fill="#6CBD45" d="M65.857,27.505
+			l-5.492,2.915v5.133l-5.561,3.515v-1.537l4.423-2.673v-3.819l-7.773,4.165V45.57l11.055-7.734v-4.951l1.105-0.676v4.845
+			l2.243-1.573V27.505z"/>
+		
+			<linearGradient id="path4899_1_" gradientUnits="userSpaceOnUse" x1="-2444.5513" y1="-980.2234" x2="-2474.6003" y2="-1000.3623" gradientTransform="matrix(0.3175 0 0 -0.3175 819.2358 -278.4236)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path4899_3_" sodipodi:nodetypes="ccccccccccccc" inkscape:connector-curvature="0" opacity="0.556" fill="url(#path4899_1_)" enable-background="new    " d="
+			M35.426,44.24l2.989,2.6V28.594l6.523-2.332l11.181,4.734l2.771-1.404l-11.152-4.327l2.841-1.011l11.075,3.933l2.785-1.408
+			l-14.098-4.572l-14.915,4.82V44.24z"/>
+		
+			<linearGradient id="path4901_1_" gradientUnits="userSpaceOnUse" x1="-2420.5625" y1="-993.7957" x2="-2449.4243" y2="-1025.337" gradientTransform="matrix(0.3175 0 0 -0.3175 819.2358 -278.4236)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path4901_3_" sodipodi:nodetypes="cccccccccccccc" inkscape:connector-curvature="0" opacity="0.5862" fill="url(#path4901_1_)" enable-background="new    " d="
+			M44.703,28.383l-3.852,1.485v19.089l8.617,7.511V34.363l3.908-1.978L44.703,28.383z M45.982,30.462l2.606,1.276l-2.213,1.018
+			v18.603l-2.59-2.177V31.394L45.982,30.462z"/>
+		
+			<linearGradient id="path4903_1_" gradientUnits="userSpaceOnUse" x1="-2411.123" y1="-980.384" x2="-2367.0667" y2="-1011.0583" gradientTransform="matrix(0.3175 0 0 -0.3175 819.2358 -278.4236)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path4903_3_" sodipodi:nodetypes="ccccccccccccccc" inkscape:connector-curvature="0" opacity="0.5991" fill="url(#path4903_1_)" enable-background="new    " d="
+			M52.561,35.689l6.078-3.371v2.407l-4.387,2.608v3.156l7.135-4.621v-5.071l3.884-2.138v6.831l-0.482,0.322v-4.766l-2.83,1.69v5.051
+			l-9.397,6.506V35.689z"/>
+		
+			<linearGradient id="path4927_1_" gradientUnits="userSpaceOnUse" x1="-2412.8423" y1="-1006.3499" x2="-2387.5815" y2="-1029.7316" gradientTransform="matrix(0.3175 0 0 -0.3175 819.2358 -278.4236)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path4927_3_" sodipodi:nodetypes="ccccccccccccccc" inkscape:connector-curvature="0" opacity="0.6121" fill="url(#path4927_1_)" enable-background="new    " d="
+			M52.561,46.894l6.078-4.471v2.476l-4.387,3.409v2.985l7.135-5.912v-4.979l3.884-2.852v6.691l-0.482,0.406V40.11l-2.83,2.204v4.814
+			l-9.397,8.165V46.894z"/>
+	</g>
+</g>
+<rect x="45.985" y="77.432" fill="none" width="16.642" height="24.867"/>
+<text transform="matrix(1 0 0 1 45.9854 96.5159)" fill="#6EBE45" font-family="'VDS-Bold'" font-size="26">1</text>
+<rect x="11.305" y="26.545" fill="none" width="11.084" height="51.626"/>
+<text transform="matrix(1 0 0 1 18.3682 26.5452)" fill="#3C6325" font-family="'VDS-Bold'" font-size="11" glyph-orientation-vertical="0" writing-mode="tb">FOSS</text>
+<rect x="61.627" y="25.15" fill="none" width="24.169" height="50.478"/>
+<text transform="matrix(1 0 0 1 82.5332 25.1497)" fill="#3C6325" font-family="'VDS-Thin'" font-size="9" glyph-orientation-vertical="0" writing-mode="tb">BOXER</text>
+</svg>
