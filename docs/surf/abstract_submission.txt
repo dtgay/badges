@@ -7,9 +7,9 @@ systems, packaging software, and participating in the community, folks are
 programmatically awarded virtual badges that they can display all over the
 Internet. 
 
-The focus of my internship has been developing Tahrir--a Free-as-in-Freedom
+The focus of my internship has been developing Tahrir -- a Free-as-in-Freedom
 Python-powered Pyramid web application responsible for displaying, managing,
-and sharing these badges--and deploying it for use within the Fedora Project
+and sharing these badges -- and deploying it for use within the Fedora Project
 (http://fedoraproject.org).
 
 The poster and presentation will show the architecture of the software stack,
