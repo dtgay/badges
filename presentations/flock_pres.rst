@@ -34,4 +34,18 @@ Fedora Badges is a recognition system, not gamification.
 Open Badges
 ===========
 
+**Mozilla Open Badges** was launched in September 2011 to issue digital badges
+to recognize skills and achievements.
 
+Open badges themselves are PNG files with **"baked-in" metadata** in the form
+of a JSON blob.
+
+A badge contains:
+
+-   a **title**.
+
+-   a **description**.
+
+-   an **image**.
+
+-   a link to badge **criteria**.
