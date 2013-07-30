@@ -85,3 +85,40 @@ are soon to follow.
 
 Badges from all sources can be exported to your **Mozilla Backpack**
 at http://beta.openbadges.org and displayed all over the web.
+
+----
+
+Fedora & Open Badges
+====================
+
+**The Fedora Project is next on the list.**
+
+Fedora wants contributors to earn badges.
+
+Award topics include:
+
+-   Ask Fedora
+
+-   Wiki edits
+
+-   FAS
+
+-   IRC meetings
+
+-   Bodhi updates, testing and stable
+
+-   Bodhi tests and karma
+
+-   Koji builds
+
+-   Fedora Planet posts
+
+-   Group membership, like sponsors
+
+-   Fedora Tagger
+
+-   Commits to Fedora package repositories
+
+-   Community-awarded badges
+
+-   Event attendance... like Flock 2013 :)
