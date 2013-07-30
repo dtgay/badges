@@ -27,7 +27,7 @@ In a year, I'll complete my BS in **Information Technology** from **RIT**.
 Gamification
 ============
 
-Last year, I completed a summer research fellowship where a team of four game
+Last year, I completed a summer research fellowship where a team of 4 game
 design students and I explored the idea of a Fedora RPG.
 
 **Fedora Badges is different.**
@@ -125,7 +125,7 @@ Award topics include:
 
 ----
 
-Badges for everyone!
+Badges For Everyone!
 ====================
 
 We don't want to keep badges to contributors.
@@ -141,5 +141,41 @@ Users will be able to offer their own **community badges** to others, like the
 
 ----
 
+The Stack
+=========
+
+Fedora Badges makes use of 5 core pieces of Fedora infrastructure software.
+
+GitHub organization: https://github.com/fedora-infra/
+
+Fedmsg: The FEDerated MeSsaGe Bus
+---------------------------------
+
+Foo.
+
+Datanommer
+----------
+
+Foo.
+
+Fedbadges
+---------
+
+Foo.
+
+Tahrir-API
+----------
+
+Foo.
+
+Tahrir
+------
+
+Foo.
+
+----
+
 Flock 2013 Badge
 ================
+
+Foo.
