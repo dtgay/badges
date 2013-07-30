@@ -58,3 +58,30 @@ A badge contains:
 -   an **image**.
 
 -   a link to badge **criteria**.
+
+----
+
+Badge Issuers
+=============
+
+Anyone can issue Open Badges.
+
+Already awarding badges:
+
+-   NASA
+
+-   Disney-Pixar
+
+-   4H
+
+-   DigitalMe
+
+-   TotaraLMS
+
+-   Moodle
+
+Mozilla claims that PBS, P2PU, Intel, and the US Department of Education
+are soon to follow.
+
+Badges from all sources can be exported to your **Mozilla Backpack**
+at http://beta.openbadges.org and displayed all over the web.
