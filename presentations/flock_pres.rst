@@ -122,3 +122,24 @@ Award topics include:
 -   community-awarded badges.
 
 -   event attendance... like Flock 2013. :)
+
+----
+
+Badges for everyone!
+====================
+
+We don't want to keep badges to contributors.
+
+In the future, **regular Fedora users** will be able to earn badges during
+their use of the operating system.
+
+**Desktop notifications** can tell you when you've earned a badge, and clicking
+them can take you to the Badges web interface.
+
+Users will be able to offer their own **community badges** to others, like the
+"You made <user>'s day!" badge.
+
+----
+
+Flock 2013 Badge
+================
