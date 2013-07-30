@@ -1,5 +1,14 @@
 .. title:: Fedora Badges
 
+Fedora Badges
+=============
+
+**Federated badges for freedom.**
+
+*David Gay, Red Hat Intern, Fedora Engineering Team*
+
+*Licensed under Creative Commons 3.0. "Be good." -- E.T.*
+
 ----
 
 About Me
@@ -27,7 +36,7 @@ Our system doesn't wrap the Fedora Project in a game system, but instead seeks
 to **recognize** participation and contributions to Fedora by awarding
 **virtual badges**.
 
-Fedora Badges is a recognition system, not gamification.
+Fedora Badges is a recognition system, **not gamification**.
 
 ----
 
