@@ -5,59 +5,40 @@ Fedora Badges
 
 **Federated badges for freedom.**
 
-*David Gay, Red Hat Intern, Fedora Engineering Team*
+David Gay, Red Hat Intern, Fedora Engineering Team
 
-*Licensed under Creative Commons 3.0. "Be good." -- E.T.*
+Ralph Bean, Red Hat Senior Software Engineer, Fedora Engineering Team
 
-----
+Licensed under Creative Commons 3.0.
 
-About Me
-========
-
-I'm **David Gay**, a **humanitarian free software** hacker.
-
-I'm a part of the RIT Lab for Technological Literacy, or **the FOSSBox**.
-
-I'm a **Red Hat** intern on the **Fedora Engineering Team**.
-
-In a year, I'll complete my BS in **Information Technology** from **RIT**.
+.. image of "hand-of-cards" badges
 
 ----
 
-Gamification
-============
+**David Gay**
 
-Last year, I completed a summer research fellowship where a team of 4 game
-design students and I explored the idea of a Fedora RPG.
+-   Humanitarian free software hacker
 
-**Fedora Badges is different.**
+-   RIT Lab for Technological Literacy, or "the FOSSBox"
 
-Our system doesn't wrap the Fedora Project in a game system, but instead seeks
-to **recognize** participation and contributions to Fedora by awarding
+-   Red Hat intern on the Fedora Infrastructure Team
+
+-   Final year at RIT
+
+**Ralph Bean**
+
+-   Red Hat senior software engineer on the Fedora Infrastructure Team
+
+-   RIT alumni
+
+-   All-around lover of pizza.
+
+----
+
+Fedora Badges isn't gamification, it's a recognition system.
+
+It recognizes participation and contributions to Fedora by awarding
 **virtual badges**.
-
-Fedora Badges is a recognition system, **not gamification**.
-
-----
-
-Open Badges
-===========
-
-**Mozilla Open Badges** was launched in September 2011 to issue digital badges
-to recognize skills and achievements.
-
-Open badges themselves are PNG files with **"baked-in" metadata** in the form
-of a JSON blob.
-
-A badge contains:
-
--   a **title**.
-
--   a **description**.
-
--   an **image**.
-
--   a link to badge **criteria**.
 
 ----
 
@@ -87,9 +68,6 @@ Badges from all sources can be exported to your **Mozilla Backpack**
 at http://beta.openbadges.org and displayed all over the web.
 
 ----
-
-Fedora & Open Badges
-====================
 
 **The Fedora Project is next on the list.**
 
@@ -125,19 +103,26 @@ Award topics include:
 
 ----
 
-Badges For Everyone!
-====================
+The Open Badges Infrastructure
+==============================
 
-We don't want to keep badges to contributors.
+**Mozilla Open Badges** was launched in September 2011 to issue digital badges
+to recognize skills and achievements.
 
-In the future, **regular Fedora users** will be able to earn badges during
-their use of the operating system.
+The Open Badges Infrastructure defines a badge as a JSON blob containing
+some metadata at a particular URL.
 
-**Desktop notifications** can tell you when you've earned a badge, and clicking
-them can take you to the Badges web interface.
+Open badges themselves can also be PNG files with **"baked-in" metadata**.
 
-Users will be able to offer their own **community badges** to others, like the
-"You made <user>'s day!" badge.
+A badge contains:
+
+-   a **title**.
+
+-   a **description**.
+
+-   an **image**.
+
+-   a link to badge **criteria**.
 
 ----
 
@@ -147,6 +132,8 @@ The Stack
 Fedora Badges makes use of 5 core pieces of Fedora infrastructure software.
 
 GitHub organization: https://github.com/fedora-infra/
+
+.. add a diagram
 
 Fedmsg: The FEDerated MeSsaGe Bus
 ---------------------------------
@@ -175,7 +162,32 @@ Foo.
 
 ----
 
+Badges For Everyone!
+====================
+
+We don't want to keep badges to contributors.
+
+In the future, **regular Fedora users** will be able to earn badges during
+their use of the operating system.
+
+**Desktop notifications** can tell you when you've earned a badge, and clicking
+them can take you to the Badges web interface.
+
+Users will be able to offer their own **community badges** to others, like the
+"You made <user>'s day!" badge.
+
+----
+
+Community Badge Submission
+==========================
+
+.. talk about a potential review system
+
+----
+
 Flock 2013 Badge
 ================
+
+.. display the badge QR code here
 
 Foo.
