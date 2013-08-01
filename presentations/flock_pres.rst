@@ -1,4 +1,5 @@
-.. title:: Fedora Badges
+:title: Fedora Badges
+:skip-help: true
 
 Fedora Badges
 =============
