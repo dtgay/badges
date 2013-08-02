@@ -6,7 +6,7 @@ Fedora Badges
 
 **Federated badges for freedom.**
 
-.. image of "hand-of-cards" badges
+.. image:: badges_fan.png
 
 
 David Gay
