@@ -6,13 +6,26 @@ Fedora Badges
 
 **Federated badges for freedom.**
 
-David Gay, Red Hat Intern, Fedora Engineering Team
-
-Ralph Bean, Red Hat Senior Software Engineer, Fedora Engineering Team
-
-Licensed under Creative Commons 3.0.
-
 .. image of "hand-of-cards" badges
+
+
+David Gay
+---------
+
+-   https://github.com/oddshocks
+-   https://twitter.com/oddshocks
+-   http://oddshocks.com
+-   ``2048R/7B478256 2013-04-20``
+
+Ralph Bean
+----------
+
+-   https://github.com/ralphbean
+-   http://twitter.com/ralphbean
+-   http://threebean.org
+-   ``2048R/971095FF 2012-12-06``
+
+.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 
 ----
 
