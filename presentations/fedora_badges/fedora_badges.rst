@@ -302,6 +302,31 @@ Possibilities include:
 
 ----
 
+Acknowledgements
+================
+
+-   Ralph Bean and Remy DeCausemaker, mentors and friends
+
+-   Tom 'spot' Callaway, manager
+
+-   Máirín Duffy and Jenn Kotler, pixel ninjas
+
+-   The rest of the Fedora infrastructure team
+
+-   All of Fedora's contributors
+
+-   My fellow FOSSBoxers
+
+-   Richard Stallman for freedom, Linus Torvalds for Linux and Git,
+    Bram Moolenaar for Vim, Nicholas Marriott for Tmux,
+    Jarkko Oikarinen for IRC, Chris McDonough for Pyramid,
+    Mike Bayer for SQLAlchemy, Lennart Regebro for Hovercraft,
+    Mozilla for the OBI, and many more
+
+-   Science
+
+----
+
 Flock 2013 Badge
 ================
 
