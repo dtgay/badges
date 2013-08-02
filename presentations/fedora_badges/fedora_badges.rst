@@ -2,12 +2,11 @@
 :skip-help: true
 :css: style.css
 
-Fedora Badges
-=============
-
-**Federated badges for freedom.**
+Fedora Badges: Federated badges for freedom.
+============================================
 
 .. image:: badges_fan.png
+    :height: 164px
 
 David Gay
 ---------
@@ -25,9 +24,9 @@ Ralph Bean
 -   http://threebean.org
 -   ``2048R/971095FF 2012-12-06``
 
-.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
-
 You can find us in ``#rit-foss`` on ``irc.freenode.net``.
+
+.. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
 
 ----
 
@@ -45,7 +44,7 @@ You can find us in ``#rit-foss`` on ``irc.freenode.net``.
 
 -   RIT alumni
 
--   All-around lover of pizza.
+-   All-around lover of pizza
 
 ----
 
@@ -196,7 +195,7 @@ Datanommer consumes messages from Fedmsg and stores them
 in a database.
 
 Every time Fedmsg emits a message that may result in someone
-earning a badge, Fedora Badges checks datanommer to see
+earning a badge, Fedora Badges checks Datanommer to see
 if they have met the criteria for the badge.
 
 ----
@@ -226,15 +225,23 @@ https://github.com/fedora-infra/tahrir-api
 Tahrir-API provides the database model for Fedora Badges, as well as a
 high-level ``TahrirDatabase`` class for easily interacting with the database.
 
+It makes use of the **SQLAlchemy** object-relational mapper.
+
 ----
 
 Tahrir
 ------
 
+https://github.com/fedora-infra/tahrir
+
 Tahrir is the web application where people can go to view their badges, explore
 Fedora Badges, and see how they compare to other Fedora contributors.
 
-Development of Tahrir and Tahrir-API was the focus of my internship this summer.
+It is a **Pyramid** web application powered by **Python** and **righteous
+freedom**.
+
+Development of Tahrir and Tahrir-API was the focus of my internship this
+summer.
 
 ----
 
