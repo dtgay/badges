@@ -1,0 +1,38 @@
+                                                                                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                                 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                            xxxxxxxx                     ^               +-----------+
+                                    xxxxxxxxxxx                          |               |           |
+                               xxxxxxxx                                  |               | Rule repo |<----- Contribute here!
+                            xxxxx   +-----------------+                  |               |           |
+                         xxxxx      |                 |                  v               +--------+--+
+                        xx          |   {s} Database  |             +----+------------------+     |
+                     xxxx           |                 |             |                       |     |
+                   xxx              +-----------------+             |      Fedbadges        |     |
+              xxxxxx                        ^                       |                       +-----+
+            xxx                             |                       |                       |
+           xx                               |                       +-----------------------+
+          xx                                |                       |      Tahrir-API       |
+         xx     om nom nom    +-------------+------------+          +----------------+------+
+         xx +---------------->|                          |                           |    ^
+          x                   |        Datanommer        |                           |    |
+          xx                  |                          |                           |    |
+           xx                 |                          |                           v    |
+            xx                +--------------------------+                         +------+---------+
+              xx                                                                   |                |
+               xx                                                                  |  {s} Database  |
+                 xx    +-----------------------+                                   |                |
+                  x    |                       +-------------------+               +--+-------------+
+                   x   |                       |                   |                  |      ^
+                   x   |    OpenBadges.org     |                   |                  v      |
+    Fedmsg stream  x   |                       |                   |    +--------------------+-----+
+                   x   |                       |                   |    |       Tahrir-API         |
+                   x   +-----------------------+                   |    +--------------------------+
+                   x             ^                                 |    |                          |
+                  xx             |                                 |    |         Tahrir           |
+                 xx              |                                 |    |                          |<------- Users go here!
+                xx               |                                 |    +-----------------+        |
+               xx                |           +-----------------+   +--->|  Assertion API  |        |
+              xx                 |           |                 |        +-----------------+-----+--+
+             xx                  +-----------+ Mozilla Persona |                                |
+            xx                               |                 |<-------------------------------+
+           xx                                +-----------------+
