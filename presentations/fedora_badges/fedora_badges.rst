@@ -1,5 +1,6 @@
 :title: Fedora Badges
 :skip-help: true
+:css: style.css
 
 Fedora Badges
 =============
@@ -25,6 +26,8 @@ Ralph Bean
 -   ``2048R/971095FF 2012-12-06``
 
 .. image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
+
+You can find us in ``#rit-foss`` on ``irc.freenode.net``.
 
 ----
 
@@ -230,6 +233,8 @@ Tahrir
 
 Tahrir is the web application where people can go to view their badges, explore
 Fedora Badges, and see how they compare to other Fedora contributors.
+
+Development of Tahrir and Tahrir-API was the focus of my internship this summer.
 
 ----
 
