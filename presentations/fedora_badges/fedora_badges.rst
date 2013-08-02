@@ -157,22 +157,91 @@ Fedora Badges makes use of 5 core pieces of Fedora infrastructure software.
 
 GitHub organization: https://github.com/fedora-infra/
 
-.. add a diagram
+.. TODO: add a diagram
 
-Fedmsg: The FEDerated MeSsaGe Bus
----------------------------------
+#. Fedmsg: The FEDerated MeSsaGe Bus
+
+#. Datanommer
+
+#. Fedbadges
+
+#. Tahrir-API
+
+#. Tahrir
+
+----
+
+Fedmsg
+------
+
+http://www.fedmsg.com
+
+Ralph's message bus for hooking together activity in
+all areas of Fedora-land.
+
+Fedmsg emits a message whenever something happens on a Fedora
+service.
+
+----
 
 Datanommer
 ----------
 
+https://github.com/fedora-infra/datanommer
+
+Datanommer consumes messages from Fedmsg and stores them
+in a database.
+
+Every time Fedmsg emits a message that may result in someone
+earning a badge, Fedora Badges checks datanommer to see
+if they have met the criteria for the badge.
+
+----
+
 Fedbadges
 ---------
+
+https://github.com/fedora-infra/fedbadges
+
+Fedbadges hooks Tahrir, Tahrir-API, and Tahrir-REST into fedmsg.
+
+Fedbadges also contains badge criteria in the form of YAML files located in our
+git repo:
+
+http://infrastructure.fedoraproject.org/infra/badges/rules/
+
+These YAML files define the badges in the system and say what triggers the
+badge award.
+
+----
 
 Tahrir-API
 ----------
 
+https://github.com/fedora-infra/tahrir-api
+
+Tahrir-API provides the database model for Fedora Badges, as well as a
+high-level ``TahrirDatabase`` class for easily interacting with the database.
+
+----
+
 Tahrir
 ------
+
+Tahrir is the web application where people can go to view their badges, explore
+Fedora Badges, and see how they compare to other Fedora contributors.
+
+----
+
+All of these tools are **system-agnostic**, which means that they can be used
+outside of Fedora, too.
+
+Anyone can deploy their own Tahrir!
+
+The OpenID provider is entirely configurable.
+
+In the future, we hope to make the authentication system fully pluggable and
+make the web application's theming easily customizable.
 
 ----
 
@@ -195,7 +264,23 @@ Users will be able to offer their own **community badges** to others, like the
 Community Badge Submission
 ==========================
 
-.. talk about a potential review system
+Of course, we've only created a small portion of the badges that we hope
+will exist by this time next year.
+
+Still unanswered is the question of how new badges will be added to the system.
+Possibilities include:
+
+-   using a pull request system and a git repo.
+
+    -   This is probably more technical than we want.
+
+-   a web form that submits to a "badge committee".
+
+    -   This is probably more closed than we want.
+
+-   a review system similar to our package reviews and Bodhi karma system.
+
+    -   This is -- in our opinion -- the most attractive option.
 
 ----
 
