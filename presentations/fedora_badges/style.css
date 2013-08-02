@@ -21,6 +21,8 @@ p {
 img {
     margin-left: auto;
     margin-right: auto;
+    display: block;
+    padding: 10px;
 }
 
 .step {
