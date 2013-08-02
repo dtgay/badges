@@ -159,8 +159,6 @@ Fedora Badges makes use of 5 core pieces of Fedora infrastructure software.
 
 GitHub organization: https://github.com/fedora-infra/
 
-.. TODO: add a diagram
-
 #. Fedmsg: The FEDerated MeSsaGe Bus
 
 #. Datanommer
@@ -170,6 +168,10 @@ GitHub organization: https://github.com/fedora-infra/
 #. Tahrir-API
 
 #. Tahrir
+
+----
+
+.. image:: diagram.png
 
 ----
 
@@ -242,6 +244,10 @@ freedom**.
 
 Development of Tahrir and Tahrir-API was the focus of my internship this
 summer.
+
+----
+
+.. image:: diagram.png
 
 ----
 
