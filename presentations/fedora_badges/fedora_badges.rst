@@ -73,9 +73,9 @@ Award topics include:
 
 -   Koji builds and commits to Fedora package repositories.
 
--   community-awarded badges.
+-   Community-awarded badges.
 
--   event attendance... like Flock 2013. :)
+-   Event attendance... like Flock 2013. :)
 
 .. image:: badge_images/askbot-curious-penguin-05.png
 
@@ -280,17 +280,20 @@ will exist by this time next year.
 Still unanswered is the question of how **new badges** will be added to the
 system.  Possibilities include:
 
--   using a pull request system and a git repo.
+-   Using a pull request system and a git repo.
 
     -   This is probably more technical than we want.
 
--   a web form that submits to a "badge committee".
+-   A web form that submits to a "badge committee".
 
     -   This is probably more closed than we want.
 
--   a review system similar to our package reviews and Bodhi karma system.
+-   A review system similar to our package reviews and Bodhi karma system.
 
     -   This is -- in our opinion -- the most attractive option.
+
+A fedorahosted tracker has been set up for this purpose at
+https://fedorahosted.org/fedora-badges.
 
 .. image:: badge_images/proven-packager.png
 
