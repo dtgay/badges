@@ -59,27 +59,15 @@ We want Fedora contributors to earn badges.
 
 Award topics include:
 
--   Ask Fedora.
+-   FAS membership and group membership (like sponsors).
 
--   Fedora Wiki edits.
+-   Ask Fedora activity, Tagger activity, and Fedora Wiki edits.
 
--   FAS.
+-   IRC meetings and Fedora Planet posts.
 
--   IRC meetings.
+-   Bodhi updates (testing and stable), tests, and karma.
 
--   Bodhi updates, testing and stable.
-
--   Bodhi tests and karma.
-
--   Koji builds.
-
--   Fedora Planet posts.
-
--   group membership, like sponsors.
-
--   Fedora Tagger.
-
--   commits to Fedora package repositories.
+-   Koji builds and commits to Fedora package repositories.
 
 -   community-awarded badges.
 
