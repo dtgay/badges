@@ -32,19 +32,19 @@ You can find us in ``#rit-foss`` on ``irc.freenode.net``.
 
 **David Gay**
 
--   Humanitarian free software hacker
+-   Humanitarian free software hacker.
 
--   RIT Lab for Technological Literacy, or "the FOSSBox"
+-   RIT Lab for Technological Literacy, or "the FOSSBox".
 
--   Red Hat intern on the Fedora Infrastructure Team
+-   Red Hat intern on the Fedora Infrastructure Team.
 
 **Ralph Bean**
 
--   Red Hat senior software engineer on the Fedora Infrastructure Team
+-   Red Hat senior software engineer on the Fedora Infrastructure Team.
 
--   RIT alumni
+-   RIT alumni.
 
--   All-around lover of pizza
+-   All-around lover of pizza.
 
 ----
 
