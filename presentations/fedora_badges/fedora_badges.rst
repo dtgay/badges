@@ -20,7 +20,7 @@ Ralph Bean
 ----------
 
 -   https://github.com/ralphbean
--   http://twitter.com/ralphbean
+-   https://twitter.com/ralphbean
 -   http://threebean.org
 -   ``2048R/971095FF 2012-12-06``
 
