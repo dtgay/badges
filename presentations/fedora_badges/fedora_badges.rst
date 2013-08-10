@@ -328,6 +328,4 @@ Acknowledgements
 
 .. image:: badge_images/flock-2013-attendee.png
 
-.. display the badge QR code here
-
-.. also display the "meta" badge QR code?
+.. image:: flock-qrcode.png
